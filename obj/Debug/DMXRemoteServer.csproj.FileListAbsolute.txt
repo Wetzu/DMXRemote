@@ -1,0 +1,10 @@
+c:\users\wetzu\documents\visual studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\bin\Debug\DMXRemoteServer.exe.config
+c:\users\wetzu\documents\visual studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\bin\Debug\DMXRemoteServer.exe
+c:\users\wetzu\documents\visual studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\bin\Debug\DMXRemoteServer.pdb
+c:\users\wetzu\documents\visual studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\obj\Debug\DMXRemoteServer.csprojResolveAssemblyReference.cache
+c:\users\wetzu\documents\visual studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\obj\Debug\DMXRemoteServer.exe
+c:\users\wetzu\documents\visual studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\obj\Debug\DMXRemoteServer.pdb
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\bin\Debug\DMXRemoteServer.exe.manifest
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\bin\Debug\DMXRemoteServer.application
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\obj\Debug\DMXRemoteServer.exe.manifest
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\obj\Debug\DMXRemoteServer.application

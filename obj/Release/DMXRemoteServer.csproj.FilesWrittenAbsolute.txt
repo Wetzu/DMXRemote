@@ -1,0 +1,8 @@
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\obj\Release\.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\bin\Release\DMXRemoteServer.exe.config
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\bin\Release\DMXRemoteServer.exe.mdb
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\bin\Release\DMXRemoteServer.pdb
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\bin\Release\DMXRemoteServer.exe
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\obj\Release\DMXRemoteServer.exe
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\obj\Release\DMXRemoteServer.exe.mdb
+C:\Users\Wetzu\Documents\Visual Studio 2015\Projects\DMXRemoteServer\DMXRemoteServer\obj\Release\DMXRemoteServer.pdb
